@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
     <h1>WEBSITE IS UNDER CONSTRUCTION</h1>
     <img src="/logo.png" className="w-[150px] h-[150px] rounded"/>
-    <h1>PLEASE NOTE THAT THERE IS ONLY ONE RESTAURANT TOOSI AND IS LOCATED AT 4686 BOUL DES SOURCES</h1>
+    <h1>RESTAURANT TOOSI WILL BE MOVING FROM 4686 BOUL DES SOURCES UNTIL FURTHER NOTICE</h1>
     </main>
   );
 }
