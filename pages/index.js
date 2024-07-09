@@ -11,9 +11,13 @@ export default function Home() {
          <Head>
         <title>RESTAURANT TOOSI</title>
       </Head>
-    <h1>WEBSITE IS UNDER CONSTRUCTION</h1>
     <img src="/logo.png" className="w-[150px] h-[150px] rounded"/>
-    <h1>RESTAURANT TOOSI WILL BE MOVING FROM 4686 BOUL DES SOURCES UNTIL FURTHER NOTICE</h1>
+    <h1>We regret to inform you that Toosi Restaurant is permanently closed until further notice.
+Important Clarification:
+We have no affiliation with the new restaurant located at 4686 Boul des Sources.
+The new establishment is neither under new management nor ownership of Toosi.
+Any restaurant falsely claiming a management transfer or association with Toosi will face severe legal action.
+Thank you for your understanding.</h1>
     </main>
   );
 }
